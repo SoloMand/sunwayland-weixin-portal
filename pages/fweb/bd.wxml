@@ -1,0 +1,3 @@
+<view>
+  <web-view src="http://121.40.179.19:8089/web"></web-view>
+</view>
